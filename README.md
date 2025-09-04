@@ -16,7 +16,7 @@ Common financial risk metrics.
 
 ## Installation
 ```
-pip install empyrical
+pip install git+https://github.com/LegacyUpgraded/empyrical.git
 ```
 
 ## Usage
